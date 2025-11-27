@@ -1,0 +1,18 @@
+/// core/constants/app_sizes.dart
+/// Houses spacing, radius, and layout helpers for consistent rhythm.
+
+class AppSizes {
+  AppSizes._();
+
+  static const double xs = 4;
+  static const double sm = 8;
+  static const double md = 12;
+  static const double lg = 16;
+  static const double xl = 24;
+  static const double xxl = 32;
+
+  static const double cardRadius = 20;
+  static const double chipRadius = 28;
+  static const double buttonHeight = 48;
+}
+
